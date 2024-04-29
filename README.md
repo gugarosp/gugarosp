@@ -6,46 +6,46 @@ Hi, my name is <strong>Gustavo Pereira</strong> and I'm a developer of captivati
 # Stacks
 <div>
     <div>
-        <img style="width: 48px" src="images/reactjs.svg" /> <h4>React</h4><br>
+        <img style="width: 32px" src="images/reactjs.svg" /> React<br>
     </div>
     <div>
-        <img style="width: 48px" src="images/js.svg" /> <h4>Javascript</h4><br>
+        <img style="width: 32px" src="images/js.svg" /> Javascript<br>
     </div>
     <div>
-        <img style="width: 48px" src="images/typescript.svg" /> <h4>Typescript</h4><br>
+        <img style="width: 32px" src="images/typescript.svg" /> Typescript<br>
     </div>
     <div>
-        <img style="width: 48px" src="images/redux.svg" /> <h4>Redux</h4><br>
+        <img style="width: 32px" src="images/redux.svg" /> Redux<br>
     </div>
     <div>
-        <img style="width: 48px" src="images/tailwindcss.svg" /> <h4>Tailwind</h4><br>
+        <img style="width: 32px" src="images/tailwindcss.svg" /> Tailwind<br>
     </div>
     <div>
-        <img style="width: 48px" src="images/sass.svg" /> <h4>SASS</h4><br>
+        <img style="width: 32px" src="images/sass.svg" /> SASS<br>
     </div>
     <div>
-        <img style="width: 48px" src="images/bootstrap4.svg" /> <h4>Bootstrap</h4><br>
+        <img style="width: 32px" src="images/bootstrap4.svg" /> Bootstrap<br>
     </div>
     <div>
-        <img style="width: 48px" src="images/html5.svg" /> <h4>HTML5</h4><br>
+        <img style="width: 32px" src="images/html5.svg" /> HTML5<br>
     </div>
     <div>
-        <img style="width: 48px" src="images/css3.svg" /> <h4>CSS3</h4><br>
+        <img style="width: 32px" src="images/css3.svg" /> CSS3<br>
     </div>
     <div>
-        <img style="width: 48px" src="images/figma.svg" /> <h4>Figma</h4><br>
+        <img style="width: 32px" src="images/figma.svg" /> Figma<br>
     </div>
     <div>
-        <img style="width: 48px" src="images/ps.svg" /> <h5>Adobe Photoshop</h5>
+        <img style="width: 32px" src="images/ps.svg" /> <h5>Adobe Photoshop</h5>
     </div>
     <div>
-        <img style="width: 48px" src="images/ai.svg" /> <h5>Adobe Illustrator</h5>
+        <img style="width: 32px" src="images/ai.svg" /> <h5>Adobe Illustrator</h5>
     </div>
     <div>
-        <img style="width: 48px" src="images/wordpress.svg" /> <h5>Wordpress</h5>
+        <img style="width: 32px" src="images/wordpress.svg" /> <h5>Wordpress</h5>
     </div>
     <div>
-        <img style="width: 48px" src="images/php.svg" /> <h5>PHP</h5>
+        <img style="width: 32px" src="images/php.svg" /> <h5>PHP</h5>
     </div>
 </div>
 
