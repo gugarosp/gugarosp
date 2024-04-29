@@ -48,7 +48,7 @@ Hi, my name is <strong>Gustavo Pereira</strong> and I'm a developer of captivati
 </div>
 
 # Experience
-As a proactive, self-taught professional with a great capacity for learning, these are the experiences I have: <br>
+As a proactive, self-taught professional with a great capacity for learning, these are the experiences I have: <br><br>
 ⚡Development of web interfaces<br>
 ⚡Implementation of JavaScript libraries and frameworks<br>
 ⚡Integration with APIs and external services<br>
