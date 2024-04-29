@@ -6,34 +6,34 @@ Hi, my name is <strong>Gustavo Pereira</strong> and I'm a developer of captivati
 # Stacks
 <div>
     <div>
-        <img style="width: 48px" src="images/reactjs.svg" /> <h4 style="margin: 4px 0 16px">React</h4>
+        <img style="width: 48px" src="images/reactjs.svg" /> <h4>React</h4><br>
     </div>
     <div>
-        <img style="width: 48px" src="images/js.svg" /> <h4 style="margin: 4px 0 16px">Javascript</h4>
+        <img style="width: 48px" src="images/js.svg" /> <h4>Javascript</h4><br>
     </div>
     <div>
-        <img style="width: 48px" src="images/typescript.svg" /> <h4 style="margin: 4px 0 16px">Typescript</h4>
+        <img style="width: 48px" src="images/typescript.svg" /> <h4>Typescript</h4><br>
     </div>
     <div>
-        <img style="width: 48px" src="images/redux.svg" /> <h4 style="margin: 4px 0 16px">Redux</h4>
+        <img style="width: 48px" src="images/redux.svg" /> <h4>Redux</h4><br>
     </div>
     <div>
-        <img style="width: 48px" src="images/tailwindcss.svg" /> <h4 style="margin: 4px 0 16px">Tailwind</h4>
+        <img style="width: 48px" src="images/tailwindcss.svg" /> <h4>Tailwind</h4><br>
     </div>
     <div>
-        <img style="width: 48px" src="images/sass.svg" /> <h4 style="margin: 4px 0 16px">SASS</h4>
+        <img style="width: 48px" src="images/sass.svg" /> <h4>SASS</h4><br>
     </div>
     <div>
-        <img style="width: 48px" src="images/bootstrap4.svg" /> <h4 style="margin: 4px 0 16px">Bootstrap</h4>
+        <img style="width: 48px" src="images/bootstrap4.svg" /> <h4>Bootstrap</h4><br>
     </div>
     <div>
-        <img style="width: 48px" src="images/html5.svg" /> <h4 style="margin: 4px 0 16px">HTML5</h4>
+        <img style="width: 48px" src="images/html5.svg" /> <h4>HTML5</h4><br>
     </div>
     <div>
-        <img style="width: 48px" src="images/css3.svg" /> <h4 style="margin: 4px 0 16px">CSS3</h4>
+        <img style="width: 48px" src="images/css3.svg" /> <h4>CSS3</h4><br>
     </div>
     <div>
-        <img style="width: 48px" src="images/figma.svg" /> <h4 style="margin: 4px 0 16px">Figma</h4>
+        <img style="width: 48px" src="images/figma.svg" /> <h4>Figma</h4><br>
     </div>
     <div>
         <img style="width: 48px" src="images/ps.svg" /> <h5>Adobe Photoshop</h5>
