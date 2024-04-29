@@ -1,37 +1,39 @@
+<img src="images/header.png" />
+
 # About Me
-Hi, my name is Gustavo Pereira and I'm a developer of captivating and interactive interfaces that provide users great experiences, with more than 20 years of experience in developing websites and web applications. I am always looking for new technologies and trends to improve my skills and deliver high-quality projects.
+Hi, my name is <strong>Gustavo Pereira</strong> and I'm a developer of captivating and interactive interfaces that provide users great experiences, with more than 20 years of experience in developing websites and web applications. I am always looking for new technologies and trends to improve my skills and deliver high-quality projects.
 
 # Stacks
 <div>
     <div>
-        <img style="width: 64px" src="images/reactjs.svg" /> <h5>React</h5>
+        <img style="width: 64px" src="images/reactjs.svg" /> <h4>React</h4>
     </div>
     <div>
-        <img style="width: 64px" src="images/js.svg" /> <h5>Javascript</h5>
+        <img style="width: 64px" src="images/js.svg" /> <h4>Javascript</h4>
     </div>
     <div>
-        <img style="width: 64px" src="images/typescript.svg" /> <h5>Typescript</h5>
+        <img style="width: 64px" src="images/typescript.svg" /> <h4>Typescript</h4>
     </div>
     <div>
-        <img style="width: 64px" src="images/redux.svg" /> <h5>Redux</h5>
+        <img style="width: 64px" src="images/redux.svg" /> <h4>Redux</h4>
     </div>
     <div>
-        <img style="width: 64px" src="images/tailwindcss.svg" /> <h5>Tailwind</h5>
+        <img style="width: 64px" src="images/tailwindcss.svg" /> <h4>Tailwind</h4>
     </div>
     <div>
-        <img style="width: 64px" src="images/sass.svg" /> <h5>SASS</h5>
+        <img style="width: 64px" src="images/sass.svg" /> <h4>SASS</h4>
     </div>
     <div>
-        <img style="width: 64px" src="images/bootstrap4.svg" /> <h5>Bootstrap</h5>
+        <img style="width: 64px" src="images/bootstrap4.svg" /> <h4>Bootstrap</h4>
     </div>
     <div>
-        <img style="width: 64px" src="images/html5.svg" /> <h5>HTML5</h5>
+        <img style="width: 64px" src="images/html5.svg" /> <h4>HTML5</h4>
     </div>
     <div>
-        <img style="width: 64px" src="images/css3.svg" /> <h5>CSS3</h5>
+        <img style="width: 64px" src="images/css3.svg" /> <h4>CSS3</h4>
     </div>
     <div>
-        <img style="width: 64px" src="images/figma.svg" /> <h5>Figma</h5>
+        <img style="width: 64px" src="images/figma.svg" /> <h4>Figma</h4>
     </div>
     <div>
         <img style="width: 64px" src="images/ps.svg" /> <h5>Adobe Photoshop</h5>
@@ -71,5 +73,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- Hi there 👋
+- 👋 Hi there 
 -->
