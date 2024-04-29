@@ -1,7 +1,7 @@
 <img src="images/header.png" />
 
 # About Me
-Hi, my name is <strong>Gustavo Pereira</strong> and I'm a developer of captivating and interactive interfaces that provide users great experiences, with more than 20 years of experience in developing websites and web applications. I am always looking for new technologies and trends to improve my skills and deliver high-quality projects.
+Hi, my name is <strong>Gustavo Pereira</strong> and I'm a developer of captivating and interactive interfaces that provide users great experiences. With more than 20 years of experience in developing websites and web applications, I'm always looking for new technologies and trends to improve my skills and deliver high-quality projects.
 
 # Stacks
 <div>
